@@ -1,0 +1,39 @@
+/* GENERALE */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgray;
+}
+
+button {
+  border-radius: 5px;
+  padding: 0.5em;
+  padding-inline: 1em;
+  margin-top: 2em;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+/* FINE GENERALE */
+
+/* MAIN */
+main {
+  text-align: center;
+  /* padding: 2rem; */
+}
+
+main input {
+  border-radius: 5px;
+  padding-bottom: 0.5em;
+}
+
+.to-do-container {
+  padding-top: 5em;
+}
+
+/* FINE MAIN */
